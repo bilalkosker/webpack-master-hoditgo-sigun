@@ -2,13 +2,12 @@
   "name": "webpack-express-boilerplate",
   "version": "0.1.0",
   "description": "A boilerplate for running a Webpack workflow in Node express",
-  "main": "server.js", 
+  "main": "server.js",
   "keywords": [
     "express",
     "webpack",
     "node"
   ],
- 
   "scripts": {
     "test": "",
     "start": "node server",
@@ -62,6 +61,7 @@
     "node-fetch": "^1.5.0",
     "nodemon": "^1.9.1",
     "react": "^0.14.8",
+    "react-ace": "^3.5.0",
     "react-dimensions": "^1.0.2",
     "react-dom": "^0.14.8",
     "react-helmet": "^3.0.1",
