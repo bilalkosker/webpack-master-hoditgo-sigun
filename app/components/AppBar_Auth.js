@@ -396,7 +396,7 @@ export default React.createClass({
     } ); 
 
         //it only get access token 
-        var url = 'http://localhost/hoditgo/token-auth'; 
+        var url = 'http://192.168.99.100:5000/token-auth'; 
         postXHR(
           url,
           {
